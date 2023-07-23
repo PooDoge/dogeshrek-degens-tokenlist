@@ -9,8 +9,8 @@
     ],
     "version": {
         "major": 1,
-        "minor": 1,
-        "patch": 1
+        "minor": 2,
+        "patch": 0
     },
     "tokens": [
         {
@@ -324,7 +324,15 @@
             "name": "Amour",
             "symbol": "Amour",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-degens-tokenlist/main/tokens/amour.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x201A1148D069e9f2094a24de338185Ba2c5caa57",
+            "decimals": 18,
+            "name": "BabyX",
+            "symbol": "BabyX",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-degens-tokenlist/main/tokens/babyx.png"
         }
     ],
-    "timestamp": "2023-07-22T12:15:00+00:00"
+    "timestamp": "2023-07-23T12:15:00+00:00"
 }
