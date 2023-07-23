@@ -1,0 +1,34 @@
+{
+    "name": "DogeShrek Degens",
+    "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogeShrek.png",
+    "keywords": [
+        "DogeChain",
+        "defi",
+        "Doge",
+        "bridge"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 2000,
+            "address": "0xd62C24c16C2ea7fC52b74B67d305C8e9E5Ca3780",
+            "decimals": 16,
+            "name": "Haruto Room",
+            "symbol": "HARUTO",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-degens-tokenlist/main/tokens/haruto.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xbDF2bD86187028EB0b8Bde697792B5edF592dA11",
+            "decimals": 18,
+            "name": "Amour",
+            "symbol": "Amour",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-degens-tokenlist/main/tokens/amour.png"
+        }
+    ],
+    "timestamp": "2023-07-22T12:00:00+00:00"
+}
