@@ -10,7 +10,7 @@
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -326,5 +326,5 @@
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-degens-tokenlist/main/tokens/amour.png"
         }
     ],
-    "timestamp": "2023-07-22T12:01:00+00:00"
+    "timestamp": "2023-07-22T12:15:00+00:00"
 }
