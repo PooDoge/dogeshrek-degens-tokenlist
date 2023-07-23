@@ -9,10 +9,306 @@
     ],
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
+        {
+            "chainId": 2000,
+            "address": "0x2BE0096B24343549E34224aa9aa297E99961023D",
+            "decimals": 18,
+            "name": "DogeShrek",
+            "symbol": "DogeShrek",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogeShrek.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+            "decimals": 18,
+            "name": "Wrapped Doge",
+            "symbol": "WWDoge",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/addresses/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B",
+            "decimals": 18,
+            "name": "Bourbon",
+            "symbol": "BOURBON",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/bourbon.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+            "decimals": 18,
+            "name": "Dogechain Token",
+            "symbol": "DC",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dcToken.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x72aB1BAbED0502B08225FA1eF777fa673d82Ee3e",
+            "decimals": 9,
+            "name": "Kibby",
+            "symbol": "Kibby",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/kibby.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x4369b719e505b1a829065BFe33B1f927573190f1",
+            "decimals": 18,
+            "name": "BabyKibby",
+            "symbol": "BabyKibby",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/babykibby.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x6ceeD11D4A1C1D8f561F240B38850B37Ad5fb3ce",
+            "decimals": 18,
+            "name": "Doge Astronauts",
+            "symbol": "DogeAstro",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dastro.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xd8ba3140C1b72432076f28aBf228755645b6A589",
+            "decimals": 9,
+            "name": "Baby Baby Yoda",
+            "symbol": "BBYoda",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/bbyoda.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xdd5e0f05680e7d4aeC462E9A60bc860d009c92c9",
+            "decimals": 18,
+            "name": "Wojak Ass Token",
+            "symbol": "WAT",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/wat.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
+            "decimals": 18,
+            "name": "YODE",
+            "symbol": "YODE",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/yode.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x35EA0c670eD9f54Ac07B648aCF0F2EB173A6012D",
+            "decimals": 18,
+            "name": "The Drugged Huskies",
+            "symbol": "TDH",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/tdh.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x1e1026ba0810e6391b0F86AFa8A9305c12713B66",
+            "decimals": 18,
+            "name": "Kibble",
+            "symbol": "KIB",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/kib.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x769B1442f0FbAe3525647c9B81126F62f6A64Ff8",
+            "decimals": 18,
+            "name": "PUP",
+            "symbol": "PUP",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/pup.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x2f90907fD1DC1B7a484b6f31Ddf012328c2baB28",
+            "decimals": 18,
+            "name": "GRIMACE",
+            "symbol": "GRIMACE",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/grimace.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/usdt.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/usdc.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x8df9B21945ebaa75424730F85eCFf426C35F5EF8",
+            "decimals": 18,
+            "name": "DogeCorn",
+            "symbol": "DogeCorn",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogecorn.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dai.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+            "decimals": 18,
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/eth.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xbC35961aeaa610a57464063B605d25a3B7c0e7eB",
+            "decimals": 8,
+            "name": "HARU Token",
+            "symbol": "HARU",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/haru.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+            "decimals": 18,
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/wbtc.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xe3fcA919883950c5cD468156392a6477Ff5d18de",
+            "decimals": 18,
+            "name": "Doge Eat Doge",
+            "symbol": "OMNOM",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/addresses/0xe3fcA919883950c5cD468156392a6477Ff5d18de/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x832108d07e0d0a68042051827C3DB5bA31BeDE40",
+            "decimals": 9,
+            "name": "OMDOGE",
+            "symbol": "OM",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/omdoge.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x4716269c75C09eaA3Df3Cc1709A88C9Da663f272",
+            "decimals": 9,
+            "name": "KONRA",
+            "symbol": "KONRA",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/KONRA.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x1Db10Fc7e7e4b5443f549cF53A53c5A4De4759ca",
+            "decimals": 18,
+            "name": "BuddyEC",
+            "symbol": "BDC",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/buddy.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x77BCD0c09B213dc940b97132cd0E969Ec483b623",
+            "decimals": 18,
+            "name": "BabyGrimace",
+            "symbol": "BabyGrimace",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/babygrimace.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xc418B123885d732ED042b16e12e259741863F723",
+            "decimals": 18,
+            "name": "DBXen Token on Dogechain",
+            "symbol": "dcDXN",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dxn.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x948eed4490833D526688fD1E5Ba0b9B35CD2c32e",
+            "decimals": 18,
+            "name": "dcXEN",
+            "symbol": "dcXEN",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/xen.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xB9fcAa7590916578087842e017078D7797Fa18D0",
+            "decimals": 18,
+            "name": "DogeTools",
+            "symbol": "DTools",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogetools.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x4e2a57A8ffE65F794e9A32637Bc67b502fFc84C6",
+            "decimals": 18,
+            "name": "RadioShackToken",
+            "symbol": "RADIO",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/radioshack.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
+            "decimals": 18,
+            "name": "MATIC",
+            "symbol": "MATIC",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/matic.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x1756333Ed621ED4e9858d74d98F63b56c043e1b5",
+            "decimals": 16,
+            "name": "NinjaHope",
+            "symbol": "NJH",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/njh.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x4400f1aC8dd5Cb6cdC6d854e241C92177EF3B197",
+            "decimals": 9,
+            "name": "Drugist",
+            "symbol": "DGT",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dgt.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xA6D7137aF64280e3eb8715aB6766740984Dd35E7",
+            "decimals": 9,
+            "name": "FuckPepe",
+            "symbol": "FuckPepe",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/fuckpepe.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x1174D0b9Cfc32f8c39884B226db43697a9Ad541d",
+            "decimals": 18,
+            "name": "RainGod",
+            "symbol": "RainGod",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/raingod.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x2cAE51F077A795dedA55ecF89a24dA15dE16F614",
+            "decimals": 18,
+            "name": "Get",
+            "symbol": "Get",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/get.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x5Cc1D860c0D1A695912E5aEDc5Cf3ccf5AF83ECa",
+            "decimals": 18,
+            "name": "Lit",
+            "symbol": "Lit",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/lit.png"
+        },
         {
             "chainId": 2000,
             "address": "0xd62C24c16C2ea7fC52b74B67d305C8e9E5Ca3780",
@@ -30,5 +326,5 @@
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-degens-tokenlist/main/tokens/amour.png"
         }
     ],
-    "timestamp": "2023-07-22T12:00:00+00:00"
+    "timestamp": "2023-07-22T12:01:00+00:00"
 }

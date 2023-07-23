@@ -6,7 +6,7 @@ List of token infomation and logos for [Dogeshrek's](https://dogeshrek.com) Comm
 
 URL to Add:
 
-https://github.com/PooDoge/dogeshrek-degens-tokenlist/blob/main/tokenLists/dogeShrekTokenList.json
+https://raw.githubusercontent.com/PooDoge/dogeshrek-degens-tokenlist/main/tokenLists/dogeShrekTokenList.json
 
 
 ## How to Submit your Token
