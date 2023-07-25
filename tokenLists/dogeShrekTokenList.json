@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -311,6 +311,14 @@
         },
         {
             "chainId": 2000,
+            "address": "0x3ABde71C12b7F34BC33D7D2c5F3236393Eac7880",
+            "decimals": 18,
+            "name": "X",
+            "symbol": "X",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/xtoken.png"
+        },
+        {
+            "chainId": 2000,
             "address": "0xd62C24c16C2ea7fC52b74B67d305C8e9E5Ca3780",
             "decimals": 16,
             "name": "Haruto Room",
@@ -334,5 +342,5 @@
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-degens-tokenlist/main/tokens/babyx.png"
         }
     ],
-    "timestamp": "2023-07-23T12:15:00+00:00"
+    "timestamp": "2023-07-24T12:00:00+00:00"
 }
